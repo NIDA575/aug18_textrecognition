@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from lib.text_detection import TextDetection
 from lib.utils import plt_show
 from lib.config import Config
-
+##TEST
 ## Arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--input", type=str, required=True, help="Path to the input image")
